@@ -13,3 +13,7 @@ Lab works of CCMA course from Udemy
 
 ![007574](https://user-images.githubusercontent.com/39963872/230804620-88f4be24-d6d1-4ed7-814d-d21d77626878.png)
 
+#Lab-4: Life of a Packet Tracer Quiz-1
+
+![007575](https://user-images.githubusercontent.com/39963872/231865866-f73ab6f1-9f76-478c-bc65-583b2f477e77.png)
+
