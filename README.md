@@ -20,3 +20,6 @@ Lab works of CCMA course from Udemy
 #Lab-5: Traffic Flows betweem Hubs and Switches
 ![007576](https://user-images.githubusercontent.com/39963872/232138865-d2bec5d8-a720-4076-a3e8-b20ac71bd4e0.png)
 
+#Lab-6: DHCP Basic
+![007577](https://user-images.githubusercontent.com/39963872/232593784-c0c58b84-1571-4a94-8292-53c80ee3c232.png)
+
