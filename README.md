@@ -25,3 +25,7 @@ Lab works of CCMA course from Udemy
 
 ![007577](https://user-images.githubusercontent.com/39963872/232593784-c0c58b84-1571-4a94-8292-53c80ee3c232.png)
 
+#Lab-7: DHCP with VLAN
+
+![007578](https://user-images.githubusercontent.com/39963872/232602173-c0a2097f-048e-4e51-bf5d-1f1fa2ce3fa0.png)
+
